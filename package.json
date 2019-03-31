@@ -1,0 +1,9 @@
+{
+  "name": "HR",
+  "version": "1.0.0",
+  "description": "HR app is an application for converting all the boring manual work of HR to automation.",
+  "main": "index.js",
+  "repository": "https://github.com/adityaramariya/HR.git",
+  "author": "Aditya Ramariya, Vishvesh Satyarthi",
+  "license": "MIT"
+}
